@@ -7,6 +7,7 @@
 ![](https://github.com/Memosachamiya/Memosa/blob/main/plugins/Mybanner.jpg?raw=true)
 
 > Im a currently learning user on this surface
+
 > Dreamer to be a programmer
 
 
