@@ -12,7 +12,6 @@
 
 ### WHO I AM
 
-<p align="center">
 ![](https://github.com/Memosachamiya/ragn-md/blob/main/plugins/My%20logo.png?raw=true)
 
 
