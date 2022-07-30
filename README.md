@@ -44,7 +44,7 @@
 ## My Page and othher Social media
 **Private Instagram Account (Click on LOGO)**
 <p align="center">
-<a href="https://www.instagram.com/_cha._azzy/"><img align="center" src="https://github.com/Memosachamiya/Memosachamiya/blob/main/Screenshot_20220730-213750.png" alt="Personal Instagram" height="360" width="152" /></a>
+<a href="https://www.instagram.com/_cha._azzy/"><img align="center" src="https://github.com/Memosachamiya/Memosachamiya/blob/main/Screenshot_20220730-213750.png" alt="Personal Instagram" height="152" width="360" /></a>
 <br>
 
 **My Instagram Meme Page**
