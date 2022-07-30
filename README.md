@@ -26,7 +26,8 @@
 - Working as a bot developer (@youthbuggers)
 ## Thank you
 <p align="center">
-<a href="https://github.com/BlackAmda"><img align="center" src="https://avatars.githubusercontent.com/u/83172207?v=" alt="Memosa" height="300" width="300" /></a>
+<a href="https://github.com/BlackAmda"><img align="center" src="https://avatars.githubusercontent.com/u/83172207?v=" alt="black amda" height="300" width="300" /></a>
+    
 - _Thank you [Black Amda][https://github.com/BlackAmda] For teaching me basic stuffs_
      - Allways wanted to be like you
 
