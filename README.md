@@ -37,17 +37,13 @@
 <p align="center">
 <a href="https://wa.me/94760168732"><img align="center" src="https://static.whatsapp.net/rsrc.php/v3/yO/r/FsWUqRoOsPu.png" alt="Memosa" height="202" width="385" /></a>
 
-****[Click Here To Contact Via Whatsapp]()****
-
-[https://github.com/BlackAmda]: https://github.com/BlackAmda "https://github.com/BlackAmda"
-
 ## My Page and othher Social media
-**Private Instagram Account (Click on LOGO)**
+**Private Instagram Account (Click)**
 <p align="center">
 <a href="https://www.instagram.com/_cha._azzy/"><img align="center" src="https://github.com/Memosachamiya/Memosachamiya/blob/main/Screenshot_20220730-213750.png" alt="Personal Instagram" height="152" width="360" /></a>
 <br>
 
-**My Instagram Meme Page**
+**My Instagram Meme Page Click)**
 <p align="center">
 <a href="https://www.instagram.com/memosa_page"><img align="center" src="https://github.com/Memosachamiya/Memosachamiya/blob/main/Screenshot_20220730-213814_1.png" alt="Memosa" height="320" width="360" /></a>
 <br>
