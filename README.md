@@ -31,10 +31,11 @@
 
 
 
-#### Contact me via whatsapp
-![](https://static.whatsapp.net/rsrc.php/v3/yO/r/FsWUqRoOsPu.png)
+#### Contact me via whatsapp (Click on whatsapp)
+<p align="center">
+<a href="[https://wa.me/94760168732]"><img align="center" src="[https://static.whatsapp.net/rsrc.php/v3/yO/r/FsWUqRoOsPu.png]" alt="Memosa" height="202" width="385" /></a>
 
-****[Click Here To Contact Via Whatsapp](https://wa.me/94760168732)****
+****[Click Here To Contact Via Whatsapp]()****
 
 [https://github.com/BlackAmda]: https://github.com/BlackAmda "https://github.com/BlackAmda"
 
